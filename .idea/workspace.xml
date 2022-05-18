@@ -1,42 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df847c55-5289-402c-9af4-9510aad29b23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vampirenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment12/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment12/StudentUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment12/assign12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dicesimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hidden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/randomnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/userinput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yourname/assignment/data/da.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yourname/assignment/singleton/sb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yourname/assingment/main/mainclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="df847c55-5289-402c-9af4-9510aad29b23" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -63,13 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.assign12">
     <configuration name="Vampirenumber" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Vampirenumber" />
