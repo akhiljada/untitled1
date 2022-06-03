@@ -1,4 +1,4 @@
-package assignment12;
+package Assignment12;
 
 import java.util.Comparator;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-public class assign12 {
+public class Assign12 {
     List<Student> studentList=StudentUtil.createStudents();
     private void departmentNames()
     {
@@ -95,15 +95,15 @@ public class assign12 {
     }
 
     public static void main(String[] args) {
-        new assign12().departmentNames(); //Question 1
-        new assign12().studentNamesEnrolledAfter(); //Question 2
-        new assign12().detailsOfMaleStudentInDepartment(); //Question 3
-        new assign12().noOfStudents(); //Question 4
-        new assign12().averageAge(); //Question 5
-        new assign12().highestPercentage(); //Question 6
-        new assign12().noOfStudentInEachDepartment(); //Question 7
-        new assign12().averagePercentageInEachDepartment(); //Question 8
-        new assign12().youngestStudent(); //Question 9
-        new assign12().noOfStudentsInComputerSc(); //Question 10
+        new Assign12().departmentNames(); //Question 1
+        new Assign12().studentNamesEnrolledAfter(); //Question 2
+        new Assign12().detailsOfMaleStudentInDepartment(); //Question 3
+        new Assign12().noOfStudents(); //Question 4
+        new Assign12().averageAge(); //Question 5
+        new Assign12().highestPercentage(); //Question 6
+        new Assign12().noOfStudentInEachDepartment(); //Question 7
+        new Assign12().averagePercentageInEachDepartment(); //Question 8
+        new Assign12().youngestStudent(); //Question 9
+        new Assign12().noOfStudentsInComputerSc(); //Question 10
     }
 }

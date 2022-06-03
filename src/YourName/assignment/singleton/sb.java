@@ -1,4 +1,4 @@
-package yourname.assignment.singleton;
+package YourName.assignment.singleton;
 public class sb{
     String str;
 

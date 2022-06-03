@@ -1,6 +1,6 @@
-package yourname.assingment.main;
-import yourname.assignment.data.da;
-import yourname.assignment.singleton.sb;
+package YourName.assingment.main;
+import YourName.assignment.data.da;
+import YourName.assignment.singleton.sb;
 
 public class mainclass {
 

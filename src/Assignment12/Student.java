@@ -1,4 +1,4 @@
-package assignment12;
+package Assignment12;
 
 public class Student {
     int id;

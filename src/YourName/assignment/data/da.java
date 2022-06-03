@@ -1,4 +1,4 @@
-package yourname.assignment.data;
+package YourName.assignment.data;
 public class da{
     public int a;
     char b ;
